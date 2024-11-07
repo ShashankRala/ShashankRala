@@ -1,12 +1,10 @@
 ## Hi👋
-I'm Shashank Yadav Rala
+## I'm Shashank Yadav Rala
+<br>
 [![](https://visitcount.itsvg.in/api?id=ShashankRala&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <br>
-**ShashankRala/ShashankRala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+ 
 - 🔭 I’m currently working on Java FullStack Repo
 - 🌱 I’m currently learning React Library
 - 👯 I’m looking to collaborate on Bash Script Repo
