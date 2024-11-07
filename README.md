@@ -1,6 +1,6 @@
 ## Hi👋
 I'm Shashank Yadav Rala
-
+[![](https://visitcount.itsvg.in/api?id=ShashankRala&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <br>
 **ShashankRala/ShashankRala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,12 +10,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Java FullStack Repo
 - 🌱 I’m currently learning React Library
 - 👯 I’m looking to collaborate on Bash Script Repo
-<!-- 🤔 I’m looking for help with--> 
-<-- 💬 Ask me about ...-->
 - 📫 How to reach me: Linkedin
-<-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
 
 
@@ -36,6 +32,6 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=ShashankRala&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ShashankRala&icon=5&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
